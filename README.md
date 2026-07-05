@@ -1,6 +1,6 @@
 # Pioneer CMB Project
 
-This project supports a high-school cosmology research paper titled
+This project supports a cosmology research paper titled
 "Investigating Low-ell Power Suppression in the Planck 2018 CMB Temperature
 Spectrum Using Cosmic-Variance Analysis."
 
